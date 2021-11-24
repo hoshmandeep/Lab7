@@ -1,0 +1,16 @@
+D:\sem 3\oo Iot1030\Lab7\lab7\bin\Debug\netcoreapp3.1\lab7.exe
+D:\sem 3\oo Iot1030\Lab7\lab7\bin\Debug\netcoreapp3.1\lab7.deps.json
+D:\sem 3\oo Iot1030\Lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.json
+D:\sem 3\oo Iot1030\Lab7\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.dev.json
+D:\sem 3\oo Iot1030\Lab7\lab7\bin\Debug\netcoreapp3.1\lab7.dll
+D:\sem 3\oo Iot1030\Lab7\lab7\bin\Debug\netcoreapp3.1\lab7.pdb
+D:\sem 3\oo Iot1030\Lab7\lab7\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.AssemblyReference.cache
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CoreCompileInputs.cache
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CopyComplete
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.dll
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.pdb
+D:\sem 3\oo Iot1030\Lab7\lab7\obj\Debug\netcoreapp3.1\lab7.genruntimeconfig.cache
